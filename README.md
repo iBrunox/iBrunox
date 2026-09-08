@@ -1,12 +1,12 @@
-👋 Bruno Ferreira
-🎓 Estudante de ADS • 💻 Backend • 🧠 Curioso por natureza
+###Bruno Ferreira
 
-"Pessoas melhoram pessoas."
+
+#🎓 Estudante de ADS • 💻 Backend • 🧠 Curioso por natureza
+
+##"Pessoas melhoram pessoas."
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada na programação.
-
 Sempre gostei de tecnologia, mas o que realmente me move é a curiosidade de entender como e por que as coisas funcionam.
-
 Não quero ser o melhor programador.
 Quero me dedicar o suficiente para fazer a diferença.
 
