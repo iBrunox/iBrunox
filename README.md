@@ -3,118 +3,47 @@
 
 "Pessoas melhoram pessoas."
 
-Sempre fui curioso.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada na programação.
 
-Desde pequeno gosto de tecnologia, mas o que realmente me prende nela é entender como as coisas funcionam e, principalmente, por quê.
-
-Foi essa curiosidade que me trouxe para ADS.
-
-Hoje estou no começo da minha jornada, aprendendo, testando, errando e tentando transformar o que estudo em projetos.
+Sempre gostei de tecnologia, mas o que realmente me move é a curiosidade de entender como e por que as coisas funcionam.
 
 Não quero ser o melhor programador.
-
 Quero me dedicar o suficiente para fazer a diferença.
 
 🧠 Sobre mim
+🔎 Gosto de entender como as coisas funcionam
+🧩 Curto resolver problemas complexos
+💻 Tenho interesse em Backend
+📚 Estudo dentro e fora da faculdade
+🤖 Uso IA como ferramenta para aprender e construir
+🚀 Quero trabalhar como Dev e criar meus próprios projetos
+🛠️ Atualmente estudando
 
-Gosto de problemas que fazem pensar.
-
-Por isso, hoje me identifico bastante com Backend. Gosto de lógica, de entender um problema, quebrar ele em partes e tentar encontrar uma solução.
-
-Nem sempre funciona de primeira. Às vezes um erro consegue acabar com meu dia. 😂
-
-Mas faz parte.
-
-Além da faculdade, gosto de estudar por conta própria, fazer cursos, pesquisar e principalmente colocar a mão na massa.
-
-🛠️ O que estou estudando
-
-Atualmente estou construindo minha base em:
-
-💻 Programação
-
-🧩 Lógica de programação
-🔄 Algoritmos
-
-🗄️ Dados
-
-🐬 SQL
-🗃️ Banco de dados
-📐 Modelagem
-
-🔧 Ferramentas
-
-🐙 Git
-🐱 GitHub
-
-🌐 Desenvolvimento
-
-🔌 APIs
-⚙️ Integrações
-🚀 Desenvolvimento de sistemas
-
-Ainda estou aprendendo e adicionando novas tecnologias conforme minha jornada avança.
+💻 Lógica 🔄 Algoritmos 🗄️ SQL 🐬 Banco de Dados
+📐 Modelagem 🔌 APIs 🐙 Git 🐱 GitHub
 
 🚀 Projetos
-💰 Sistema de Organização Financeira
+💰 Organização Financeira via WhatsApp
 
-Um dos projetos que mais me ensinou até agora.
+Sistema de organização financeira integrado ao WhatsApp, com dashboard.
 
-Criei um sistema de organização financeira integrado ao WhatsApp, com dashboard para visualizar as informações.
+O que envolveu:
 
-🤖 Usei IA no desenvolvimento do código, e considero isso parte importante da história do projeto.
+🔌 APIs 📱 Meta API 🗄️ Banco de Dados 🐛 Debug 🤖 IA
 
-Mas para fazer tudo funcionar precisei:
+Um dos projetos que mais me ensinou sobre aprender enquanto construo.
 
-🔌 Estudar e integrar APIs
-📱 Entender a API da Meta
-🔗 Conectar diferentes serviços
-🐛 Fazer muito debug
-🔎 Pesquisar coisas que eu ainda não sabia
-🧠 Entender o que estava acontecendo por trás do código
+📈 Minha jornada
 
-No final, o projeto acabou sendo muito mais do que escrever código.
+Hoje: 🟢 Aprendendo
+Próximo passo: 🟡 Projetos maiores
+Objetivo: 🔵 Desenvolver cada vez mais sozinho
 
-Foi uma experiência de aprender enquanto construía.
+Este GitHub vai acompanhar tudo isso:
+projetos, estudos, erros, acertos e evolução.
 
-📚 Atualmente
+🤝 Ainda estou começando.
 
-Estou tentando descobrir como juntar tudo aquilo que estou aprendendo e transformar em projetos cada vez maiores.
-
-Ainda estou naquela fase em que aprendo uma coisa e penso:
-
-"Tá... mas como eu uso isso junto com o resto?" 😂
-
-Acho que faz parte de começar.
-
-Meu objetivo para os próximos anos é conseguir desenvolver cada vez mais sozinho, trabalhar como desenvolvedor e também criar meus próprios projetos.
-
-📈 Minha evolução
-
-Este GitHub vai acompanhar esse processo.
-
-Aqui provavelmente vão aparecer:
-
-🧪 Experimentos
-📚 Projetos de estudo
-🚀 Projetos pessoais
-🐛 Erros
-✅ Acertos
-💡 Algumas ideias que talvez funcionem
-🤦 Algumas que definitivamente não vão funcionar
-
-Não quero que esse perfil pareça que eu já sei tudo.
-
-Quero que ele mostre o quanto estou evoluindo.
-
-🤝 E no fim...
-
-Acredito que tecnologia é feita por pessoas e para pessoas.
-
-Ainda estou descobrindo muita coisa sobre programação, mas uma coisa eu já sei:
-
-quero continuar curioso.
-
-⭐ Obrigado por passar por aqui.
+Mas estou curioso para descobrir até onde consigo chegar.
 
 Pessoas melhoram pessoas.
