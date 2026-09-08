@@ -45,5 +45,3 @@ projetos, estudos, erros, acertos e evolução.
 🤝 Ainda estou começando.
 
 Mas estou curioso para descobrir até onde consigo chegar.
-
-Pessoas melhoram pessoas.
