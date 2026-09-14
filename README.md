@@ -4,7 +4,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Aprendendo+desenvolvimento+web;Estudando+HTML%2C+CSS+e+Python;Explorando+banco+de+dados;Sempre+em+evolu%C3%A7%C3%A3o&font=Segoe+UI&center=true&width=460&height=35&color=333333&vCenter=true&size=16" alt="Frases digitando" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Aprendendo+desenvolvimento+web;Estudando+HTML%2C+CSS+e+Python;Explorando+banco+de+dados;Sempre+em+evolu%C3%A7%C3%A3o&font=Segoe+UI&center=true&width=460&height=35&color=C9D1D9&vCenter=true&size=16" alt="Frases digitando" />
 
 </div>
 
@@ -28,9 +28,11 @@ aprendo em pequenos projetos.
 ## GitHub
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iBrunox&show_icons=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Bruno: total de commits, estrelas, issues e pull requests" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrunox&layout=compact&hide_border=true" alt="Linguagens mais usadas por Bruno nos repositórios do GitHub" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=iBrunox&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800" alt="Estatísticas do GitHub de Bruno: total de commits, estrelas, issues e pull requests" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrunox&layout=compact&hide_border=true&theme=github_dark_dimmed&cache_seconds=1800" alt="Linguagens mais usadas por Bruno nos repositórios do GitHub" />
 </div>
+
+<sub>Se alguma das duas imagens acima aparecer como um link em vez da imagem, é o serviço gratuito de estatísticas que travou por um instante — atualize a página do GitHub em alguns minutos que ele volta.</sub>
 
 ## Contato
 
